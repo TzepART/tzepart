@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-My name is Artem and I'm a Seniior Backend Developer from Moscow.
+My name is Artem and I'm a Senior Backend Developer from Moscow.
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="150" />
 
