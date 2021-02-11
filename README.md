@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<p><a href="https://www.linkedin.com/in/tzepart/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a></p>
+
 
 My name is Artem and I'm a Senior Backend Developer from Moscow.
 
