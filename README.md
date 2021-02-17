@@ -9,6 +9,7 @@ My name is Artem and I'm a Senior Backend Developer from Moscow.
 
 - 🔭 I’m currently working in [Lamoda](https://tech.lamoda.ru/)
 - 🤔 I am interested in backend developing, DS and ML
+- 🌱 I’m currently learning ML, Golang, Vue
 - 💬 How to reach me: [Telegram](https://t.me/tzepart)
 
 
