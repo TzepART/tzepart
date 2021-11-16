@@ -27,6 +27,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  
+  
+  
+<h3>My DS and ML projects</h3>
+<table width=100%>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>Project</b></td>
+      <td><b>Application areas</b></td>
+      <td><b>Tools</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+          <td><a href="https://github.com/TzepART/choosing-oil-region"><b>Determination of the region of oil production</b></a></td>
+          <td>IT company, Industry companies, Startups, Services for business [b2b]</td>
+          <td><a href="https://numpy.org">numpy</a> <a href="https://scikit-learn.org/">sklearn</a> <a href="https://pandas.pydata.org/">pandas</a> <a href="https://seaborn.pydata.org/">seaborn</a> <a href="https://matplotlib.org/">matplotlib</a></td>
+    </tr>
+  </tbody>
+</table>
 
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=tzepart&show_icons=true&hide_border=true&theme=default" alt="abhisheknaiidu" />
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tzepart&show_icons=true&hide_border=true&theme=default" alt="abhisheknaiidu" />
