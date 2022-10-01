@@ -45,6 +45,3 @@ Here are some ideas to get you started:
     </tr>
   </tbody>
 </table>
-
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=tzepart&show_icons=true&hide_border=true&theme=default" alt="abhisheknaiidu" />
-
