@@ -4,12 +4,11 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="150" />
 
-My name is Artem and I'm a Senior Backend Developer from Moscow.
+My name is Artem and I'm a Senior Backend Developer from Berlin.
 
-- 🔭 I’m currently working in [Uma.tech](https://uma.tech/)
+- 🔭 I’m currently working in [Auto1](https://auto1.tech/)
 - 🤔 I am interested in backend developing, DS and ML
 - 🌱 I’m currently learning ML, Golang, Vue
-- 💬 How to reach me: [Telegram](https://t.me/tzepart)
 
 
 <!--
