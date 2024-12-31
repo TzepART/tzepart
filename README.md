@@ -8,7 +8,7 @@ My name is Artem and I'm a Senior Backend Developer from Berlin.
 
 - 🔭 I’m currently working in [Auto1](https://auto1.tech/)
 - 🤔 I am interested in backend developing, DS and ML
-- 🌱 I’m currently learning ML, Golang, Vue
+- 🌱 I’m currently learning ML
 
 
 <!--
